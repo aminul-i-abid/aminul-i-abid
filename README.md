@@ -16,7 +16,7 @@
 
 ### Backend Development
 
-- **Other Languages**: Go (Golang), Typescript
+- **Languages**: Go (Golang), Typescript, C
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Github, Docker, Gin, Nodejs, Expressjs, etc.
 
