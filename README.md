@@ -18,7 +18,7 @@
 
 - **Languages**: Go (Golang), Typescript
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, Github, Docker, Gin, Nodejs, Expressjs, Nestjs etc.
+- **Tools & Frameworks**: Git, Github, Docker, Gin, Nodejs, Expressjs, Nestjs etc.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
