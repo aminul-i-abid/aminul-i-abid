@@ -5,9 +5,9 @@
 </p>
 
 - 🔭 **Shaping** my journey in the **software industry** for 7 years.
-- 🌱 I've been expanding my skills in **backend development**, focusing on **architecting** and **building scalable backend services**.
+- 🌱 I've been expanding my skills in **backend development**, focusing on **architecting** and **building scalable & efficient backend services**.
 
-- 💬 Ask me about **Backend Stuffs** — I'm always happy to collaborate or assist!
+- 💬 Ask me about **Backend Stuffs**, I'm always happy to collaborate or assist!
 - 📫 How to reach me: **aminul.i.abid@gmail.com**
 
 <br>
