@@ -18,4 +18,4 @@
 
 - **Languages**: Javascript, Typescript
 - **Databases**: MySQL, MongoDB
-- **Tools & Frameworks**: Git, Github, Docker, Gin, Nodejs, Expressjs, Nestjs etc.
+- **Tools & Frameworks**: Git, Github, Docker, Nodejs, Expressjs, Nestjs etc.
